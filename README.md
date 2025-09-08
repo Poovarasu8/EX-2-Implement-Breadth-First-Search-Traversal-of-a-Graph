@@ -78,3 +78,5 @@ BFS Traversal Order: ['A', 'B', 'C']
 
 
 **Result:**
+<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/f25e4933-5ad4-44ff-a3d1-d6df26f32aff" />
+
